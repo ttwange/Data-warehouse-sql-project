@@ -3,7 +3,9 @@
 A modern data warehouse built with PostgreSQL 16 following the Medallion Architecture
 (Bronze → Silver → Gold), consolidating sales data from CRM and ERP source systems
 to enable analytical reporting and informed decision-making.
-# Notion project live project:https://motley-revolve-f1e.notion.site/Data-Warehouse-Project-34cb4b2fedf280dca8fbe6cb9d34be7f
+# Notion project live project:
+
+  link: https://motley-revolve-f1e.notion.site/Data-Warehouse-Project-34cb4b2fedf280dca8fbe6cb9d34be7f
 
 ---
 
